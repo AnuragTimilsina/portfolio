@@ -1,0 +1,28 @@
+.container.Publication_container {
+    width: 60%;
+    padding: 1rem 0;
+}
+
+.Publication {
+    background: var(--color-bg-variant);
+    text-align: center;
+    padding: 2rem;
+    border-radius: 2rem;
+    user-select: none;
+}
+
+/* ===============MEDIA QUERIES (MEDIUM DEVICES)=========================== */
+
+@media screen and (max-width: 1024px) {
+    .container.Publication_container {
+        width: 60%;
+    }
+}
+
+/* ===============MEDIA QUERIES (SMALL DEVICES)=========================== */
+
+@media screen and (max-width: 600px) {
+    .container.Publication_container {
+        width: var(--container-width-sm);
+    }
+}
