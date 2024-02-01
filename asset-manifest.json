@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ba12e216.css",
-    "main.js": "/portfolio/static/js/main.6be155ca.js",
+    "main.css": "/portfolio/static/css/main.0df9abd5.css",
+    "main.js": "/portfolio/static/js/main.6d429f0d.js",
     "static/media/Anurag-Profile.png": "/portfolio/static/media/Anurag-Profile.5f06bbf3f4772cb5f0dc.png",
     "static/media/ArvoAbstract.pdf": "/portfolio/static/media/ArvoAbstract.04d215f2869de1edb5bc.pdf",
     "static/media/profilesagar.jpg": "/portfolio/static/media/profilesagar.b129083ace54e7b2b3bb.jpg",
@@ -11,11 +11,11 @@
     "static/media/project-image.jpg": "/portfolio/static/media/project-image.3cda848463049a01a699.jpg",
     "static/media/mobile-app.jpg": "/portfolio/static/media/mobile-app.ddb4688beab96a98314f.jpg",
     "index.html": "/portfolio/index.html",
-    "main.ba12e216.css.map": "/portfolio/static/css/main.ba12e216.css.map",
-    "main.6be155ca.js.map": "/portfolio/static/js/main.6be155ca.js.map"
+    "main.0df9abd5.css.map": "/portfolio/static/css/main.0df9abd5.css.map",
+    "main.6d429f0d.js.map": "/portfolio/static/js/main.6d429f0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba12e216.css",
-    "static/js/main.6be155ca.js"
+    "static/css/main.0df9abd5.css",
+    "static/js/main.6d429f0d.js"
   ]
 }
