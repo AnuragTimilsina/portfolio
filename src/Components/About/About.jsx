@@ -39,7 +39,7 @@ const About = () => {
 						</article>
 					</div> */}
 					<p>
-					I am Anurag Timilsina, a seasoned researcher, Python programmer, and dedicated practitioner of machine learning and deep learning. With a knack for transforming data into actionable insights, I specialize in making machines emulate human intelligence.
+					I am Anurag Timilsina, a student researcher, Python programmer, and dedicated practitioner of machine learning and deep learning. With a knack for transforming data into actionable insights, I specialize in making machines emulate human intelligence.
 					</p>
 
 					{/* <a href="#contact" className="btn btn-primary">
